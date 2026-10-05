@@ -1,21 +1,13 @@
-# Employee System (Legacy Duplicate)
+# employee-system- (Legacy)
 
 ![Status](https://img.shields.io/badge/status-legacy-lightgrey)
 
-نسخة قديمة أو مكررة من مشروع نظام إدارة الموظفين. المستودع غير مخصص للتطوير الجديد.
+هذه نسخة قديمة أو مكررة من مشروع `employee-system`. لا يُنصح بتطوير ميزات هنا.
 
-## الحالة
-**قديم / مرشح للأرشفة**.
+الحالة: **قديم / مرشح للأرشفة**
 
-المشروع الأساسي المعتمد هو:
-[employee-system](https://github.com/Abdelrahman-Dev-Code/employee-system)
+الإجراء المقترح:
+- قارن المحتوى مع المستودع الرئيسي `employee-system`.
+- إذا لم توجد تغييرات مهمة، قم بأرشفة المستودع أو حذفه لتجنب التشتت.
 
-يرجى استخدام المستودع الأساسي لأي تطوير أو إصلاحات جديدة، وعدم إنشاء ميزات هنا لتجنب تشتت العمل بين نسختين.
-
-## الإجراء المقترح
-- الاحتفاظ به مؤقتًا كمرجع.
-- مقارنة محتواه مع المستودع الأساسي.
-- أرشفته بعد التأكد من عدم وجود تغييرات مهمة.
-
-## English summary
-Legacy duplicate of the employee system. Use the main repository for all future development.
+English summary: Legacy duplicate of the employee system. Use the main repository for active development.
